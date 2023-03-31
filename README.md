@@ -12,13 +12,21 @@ Overall, this repository is a great resource for anyone interested in improving 
 This repository is open source and contributions are welcome! Here are the steps to contribute:
 
 Fork the repository
+
 Clone the forked repository to your local machine
+
 Create a new branch with a descriptive name for your contribution
+
 Make your changes to the code and add any necessary documentation
+
 Commit your changes with a descriptive commit message
+
 Push your changes to your forked repository
+
 Create a pull request to merge your changes into the original repository
+
 Please ensure that your code is well-documented and follows the same coding style as the existing solutions. Your contribution will be reviewed by the repository maintainers and merged if it meets the repository's standards.
+
 
 Thank you for your interest in contributing to this open source project!
 
