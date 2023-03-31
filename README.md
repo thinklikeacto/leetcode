@@ -1,33 +1,54 @@
-# Leetcode in Python
+# Leetcode Solutions in Python
 
-This GitHub repository is a collection of solutions to LeetCode problems written in Python. LeetCode is a popular platform for practicing and mastering data structure and algorithm skills. The repository contains solutions to various LeetCode problems, ranging from easy to hard difficulty levels.
+This repository contains solutions to various [LeetCode](https://leetcode.com/) problems in Python.
 
-Each solution in this repository includes a detailed explanation of the approach used to solve the problem and the reasoning behind it. The solutions are implemented using Python, a widely-used programming language known for its simplicity and readability.
 
-The repository is organized by problem number and each solution is provided in a separate file, making it easy to navigate and find the solution to a specific problem. The solutions are well-documented, making it easy for others to understand the approach taken and learn from it.
+## Directory Structure
 
-Overall, this repository is a great resource for anyone interested in improving their problem-solving skills and mastering data structures and algorithms using Python. It provides a comprehensive set of solutions to LeetCode problems, along with detailed explanations that help to deepen understanding of the underlying concepts.
+The solutions are organized by difficulty level and are located in the following directories:
 
-## How to Contribute
+LeetCode-Solutions/
+│
+├── Easy/
+│   ├── 1. Two Sum.py
+│   ├── 7. Reverse Integer.py
+│   ├── ...
+│
+├── Medium/
+│   ├── 3. Longest Substring Without Repeating Characters.py
+│   ├── 5. Longest Palindromic Substring.py
+│   ├── ...
+│
+├── Hard/
+│   ├── 4. Median of Two Sorted Arrays.py
+│   ├── 10. Regular Expression Matching.py
+│   ├── ...
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
+
+## Contributing
+
 This repository is open source and contributions are welcome! Here are the steps to contribute:
 
-Fork the repository
-
-Clone the forked repository to your local machine
-
-Create a new branch with a descriptive name for your contribution
-
-Make your changes to the code and add any necessary documentation
-
-Commit your changes with a descriptive commit message
-
-Push your changes to your forked repository
-
-Create a pull request to merge your changes into the original repository
+1. Fork the repository
+2. Clone the forked repository to your local machine
+3. Create a new branch with a descriptive name for your contribution
+4. Make your changes to the code and add any necessary documentation
+5. Commit your changes with a descriptive commit message
+6. Push your changes to your forked repository
+7. Create a pull request to merge your changes into the original repository
 
 Please ensure that your code is well-documented and follows the same coding style as the existing solutions. Your contribution will be reviewed by the repository maintainers and merged if it meets the repository's standards.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 Thank you for your interest in contributing to this open source project!
+
 
 
