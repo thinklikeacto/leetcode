@@ -10,24 +10,23 @@ The solutions are organized by difficulty level and are located in the following
 LeetCode-Solutions/
 │
 ├── Easy/
-│   ├── 1. Two Sum.py
-│   ├── 7. Reverse Integer.py
-│   ├── ...
+│ ├── 1. Two Sum.py
+│ ├── 7. Reverse Integer.py
+│ ├── ...
 │
 ├── Medium/
-│   ├── 3. Longest Substring Without Repeating Characters.py
-│   ├── 5. Longest Palindromic Substring.py
-│   ├── ...
+│ ├── 3. Longest Substring Without Repeating Characters.py
+│ ├── 5. Longest Palindromic Substring.py
+│ ├── ...
 │
 ├── Hard/
-│   ├── 4. Median of Two Sorted Arrays.py
-│   ├── 10. Regular Expression Matching.py
-│   ├── ...
+│ ├── 4. Median of Two Sorted Arrays.py
+│ ├── 10. Regular Expression Matching.py
+│ ├── ...
 │
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
 
 
 ## Contributing
