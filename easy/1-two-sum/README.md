@@ -1,4 +1,9 @@
-This solution uses a dictionary to keep track of previously seen numbers and their indices. For each number in the list, it calculates the complement needed to reach the target sum and checks if that complement has been seen before. If so, it returns the indices of the two numbers that add up to the target sum. If not, it adds the number to the dictionary of seen numbers and moves on to the next number.
+The problem asks us to find two numbers in the input list that add up to a target sum, and return their indices in the list. We can solve this problem by iterating through the input list and checking if the target minus the current number has been seen before.
+
+To keep track of previously seen numbers and their indices, we can use a dictionary. For each number in the list, we check if the target minus the number has been seen before by looking it up in the dictionary. If it has, we return the current index and the index of the complement. If it hasn't, we add the current number and its index to the dictionary.
+
+This approach has a time complexity of O(n), where n is the length of the input list. We only need to iterate through the list once, and each dictionary lookup takes constant time on average.
+
 
 
 ## Frequently Asked Questions
