@@ -1,0 +1,3 @@
+Here, we initialize a dummy head node dummy to hold the sum and a current node current to the dummy head. We also initialize the carry to 0. We then iterate over the two linked lists l1 and l2 until at least one is empty. We get the value of the current node in each linked list or 0 if it's empty, calculate the sum of the two values and the carry from the previous digit, update the carry for the next iteration, and create a new node with the least significant digit of the sum. We then move to the next node in each linked list or None if at the end, and move to the next node in the sum linked list. If there's still a carry left over after adding all the digits, we create a new node for it. Finally, we return the next node after the dummy head, which holds the sum.
+
+
