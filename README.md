@@ -21,8 +21,8 @@ Please ensure that your code is well-documented and follows the same coding styl
 
 | Problem                                                      | Type   | Solution                                                                                   |
 | ------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------ |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/)         | Easy   | [Python](./easy/1-two-sum/solution.py)                                                             |
-| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](./easy/2-add-two-tumbers/solution.py)                                                      |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)         | Easy   | [Python](./easy/1-two-sum/)                                                             |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](./easy/2-add-two-tumbers/)                                                      |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Python](./python/3-longest-substring-without-repeating-characters.py)                       |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard   | [Python](./python/4-median-of-two-sorted-arrays.py)                                          |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Python](./python/5-longest-palindromic-substring.py)                                        |
