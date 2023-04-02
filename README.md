@@ -16,6 +16,8 @@ This repository is open source and contributions are welcome! Here are the steps
 
 Please ensure that your code is well-documented and follows the same coding style as the existing solutions. Your contribution will be reviewed by the repository maintainers and merged if it meets the repository's standards.
 
+## Problems
+
 
 | Problem                                                      | Type   | Solution                                                                                   |
 | ------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------ |
